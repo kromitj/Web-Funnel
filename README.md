@@ -4,9 +4,10 @@
 Scenario: We are generating user-specific referral code/links that can be sent via text. We would like our users to send their referral links out to their friends - but in order to measure direct download attribution from these links, we'll need to cross verify the new potential user's phone number in our web funnel with the phone number the user eventually signs up with (if they ever do sign up!).
 
 ## Assignment: We would like you to build out the below Web Funnel (wireframe provided) with the below functionality:
-"Download" button is not active until a valid phone number is typed into form field
-When "Download" button is pressed, call a placeholder function that sends the phone number to a [currently non-existent] backend endpoint
-Add an image box above the text in case we want to put in a logo
+* "Download" button is not active until a valid phone number is typed into form field
+* When "Download" button is pressed, call a placeholder function that sends the phone number to a [currently non-existent] backend endpoint
+* Add an image box above the text in case we want to put in a logo
+* Optimize for mobile experience, but make sure web does not look wonky
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
