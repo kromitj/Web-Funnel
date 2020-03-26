@@ -13,7 +13,7 @@ function App() {
         logoUrl="https://via.placeholder.com/150"
         groupName="WestingHouse"
         charity="Ronald McDonald"
-     	/>
+      />
     </div>
   );
 }
