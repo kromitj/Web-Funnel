@@ -1,0 +1,21 @@
+.wrapper {
+  margin-top: 3em;
+}
+
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.phone {
+  padding-top: 2em
+}
+
+.downloadBtn {
+  margin-top: .5em
+}
+
+.privacy {
+  margin-top: 1em
+}
